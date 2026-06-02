@@ -126,11 +126,25 @@ The Top 10 route analysis showed that high expenditure was not always driven by 
 
 ## Recommendations
 
-- Strengthen monitoring of premium-class bookings.
-- Review high-cost routes annually.
-- Introduce route-specific travel budgets.
-- Increase visibility of departmental travel performance.
-- Expand dashboard usage for quarterly travel reviews.
+### 1. Strengthen control of premium-class bookings
+
+Several departments and routes exceeded the company's assumed premium-class threshold of 35%. Management should introduce an approval process for Business and First-Class bookings above predefined limits and monitor compliance through monthly exception reports.
+
+### 2. Review high-cost routes and negotiate with airline providers
+
+Route-level analysis identified routes with substantial increases in average ticket prices between 2023 and 2024. The company should conduct periodic reviews of these routes and explore alternative airlines, negotiated corporate rates, or revised travel policies to reduce costs.
+
+### 3. Focus on cost per trip rather than total expenditure
+
+The analysis showed that lower total travel expenditure in 2024 was primarily driven by a reduction in travel volume rather than significant improvements in travel efficiency. Management should therefore use Cost Per Trip as the primary KPI when evaluating travel cost performance.
+
+### 4. Establish department-level travel benchmarks
+
+Departments such as Administration and HR recorded average ticket prices above the company benchmark. Introducing department-specific travel budgets and monitoring average ticket prices can improve accountability and encourage more cost-conscious travel decisions.
+
+### 5. Integrate the dashboard into quarterly financial reviews
+
+The dashboard should be incorporated into regular financial review meetings to monitor travel expenditure trends, policy compliance, and route performance. This would allow management to identify cost issues earlier and take corrective action before annual budgets are exceeded.
 
 ---
 

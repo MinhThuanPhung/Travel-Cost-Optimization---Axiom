@@ -92,17 +92,25 @@ Percentage of Business and First-Class bookings.
 
 ## Key Insights
 
-### 1. Travel volume decreased significantly in 2024
-Total flights fell by more than 50%, reducing overall travel expenditure.
+### 1. Travel expenditure decreased despite rising ticket prices
 
-### 2. Some departments exceed the company benchmark
-Several departments recorded higher-than-average ticket prices and premium-class usage.
+Total travel expenditure fell by 36.8% in 2024, while total flights decreased by 53.2%. However, the average cost per trip only declined by 1.3%, indicating that most savings resulted from reduced travel volume rather than improved travel cost efficiency.
 
-### 3. Premium-class usage remains a controllable cost driver
-Certain departments and routes exceeded the internal threshold of 35% premium-class bookings.
+### 2. Administrative and HR departments recorded the highest travel costs
 
-### 4. Route-level analysis identified high-cost routes
-Several routes experienced substantial increases in average ticket prices between 2023 and 2024.
+The Administration department generated the highest overall travel expenditure, while HR reported the highest average cost per trip. Both departments consistently exceeded the company-wide average ticket price benchmark, suggesting potential opportunities for cost control and travel policy review.
+
+### 3. Premium-class usage exceeded policy thresholds in several areas
+
+The company’s internal policy assumes premium-class bookings should remain below 35% of total trips. Analysis identified departments and routes that exceeded this threshold, increasing travel costs and indicating potential non-compliance with travel guidelines.
+
+### 4. Several routes experienced significant cost inflation
+
+Route-level analysis revealed that some routes recorded double-digit increases in average ticket prices between 2023 and 2024. In addition, more than 50% of bookings on certain routes were priced above their route-specific average, highlighting potential supplier pricing issues or inefficient booking behaviour.
+
+### 5. Route performance varied significantly across the network
+
+The Top 10 route analysis showed that high expenditure was not always driven by travel volume. Some routes generated disproportionately high costs because of higher ticket prices and elevated premium-class usage, making them priority candidates for cost optimisation initiatives.
 
 ---
 

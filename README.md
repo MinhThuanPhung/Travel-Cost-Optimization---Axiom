@@ -22,7 +22,8 @@ Following rapid business growth between 2015 and 2024, Axiom Inc. experienced a 
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+<img width="624" height="424" alt="Picture1" src="https://github.com/user-attachments/assets/4becc97c-42fc-462c-9cc8-dd70ac968aaf" />
+
 
 ---
 
@@ -51,7 +52,8 @@ The data preparation workflow included:
 
 ### Tableau Prep Flow
 
-![Prep Flow](images/prep_flow.png)
+<img width="624" height="349" alt="Picture2" src="https://github.com/user-attachments/assets/e287d20e-0560-4907-bfe6-647bdd4c65f7" />
+
 
 ---
 
@@ -94,9 +96,15 @@ Percentage of Business and First-Class bookings.
 
 ### 1. Travel expenditure decreased despite rising ticket prices
 
+<img width="624" height="105" alt="Picture4" src="https://github.com/user-attachments/assets/cf9d9a9b-f5d5-4c12-b765-dd36bf1e7904" />
+
 Total travel expenditure fell by 36.8% in 2024, while total flights decreased by 53.2%. However, the average cost per trip only declined by 1.3%, indicating that most savings resulted from reduced travel volume rather than improved travel cost efficiency.
 
+
 ### 2. Administrative and HR departments recorded the highest travel costs
+
+<img width="624" height="96" alt="Picture5" src="https://github.com/user-attachments/assets/c1348a1d-6719-44a8-b924-f2cf1f6836ba" />
+
 
 The Administration department generated the highest overall travel expenditure, while HR reported the highest average cost per trip. Both departments consistently exceeded the company-wide average ticket price benchmark, suggesting potential opportunities for cost control and travel policy review.
 
@@ -105,6 +113,8 @@ The Administration department generated the highest overall travel expenditure, 
 The company’s internal policy assumes premium-class bookings should remain below 35% of total trips. Analysis identified departments and routes that exceeded this threshold, increasing travel costs and indicating potential non-compliance with travel guidelines.
 
 ### 4. Several routes experienced significant cost inflation
+
+<img width="468" height="182" alt="Picture6" src="https://github.com/user-attachments/assets/c065c108-9bc2-4acf-b1b7-6a43990894aa" />
 
 Route-level analysis revealed that some routes recorded double-digit increases in average ticket prices between 2023 and 2024. In addition, more than 50% of bookings on certain routes were priced above their route-specific average, highlighting potential supplier pricing issues or inefficient booking behaviour.
 
